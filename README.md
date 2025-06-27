@@ -1,2 +1,1 @@
-# indocoli
-indocoli
+# [indocoli](https://indocoli.pages.dev)
